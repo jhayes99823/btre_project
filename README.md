@@ -10,6 +10,7 @@ A side project that is an example of using HTML, CSS, and Javascript on the fron
     + You can also select the 'Seller of the Month'
     + You filter through the listings easily to make any changes necessary
   + Users on the front end can search through listings as well
+  + You can make inquiries without logging in as well
   
  ## Screenshoots
  
@@ -27,9 +28,6 @@ A side project that is an example of using HTML, CSS, and Javascript on the fron
 
 ### Example of Creating a Realtor from Admin Area
 ![alt text](btre_screenshots/btrealestate_screenshot_7.PNG)
-
-### A User Dashboard Example
-![alt text](btre_screenshots/btrealestate_screenshot_4.PNG)
 
 ### Listings from Admin Area
 ![alt text](btre_screenshots/btrealestate_screenshot_5.PNG)
