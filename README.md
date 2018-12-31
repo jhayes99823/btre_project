@@ -1,8 +1,8 @@
-BT Real Estate Project
+# BT Real Estate Project
 
 A side project that is an example of using HTML, CSS, and Javascript on the front-end and incorporating Python and Django on the backend to build database functionality with PostgreSQL and help from pgAdmin4.
 
-Features
+## Features
   + You can login as a user and select properties and make 'inquiries' about them. This sends an email to the realtor of the property.
     There is also a dashboard provided that lists all of your inquries
   + A lot of dynamic content with using information from the PostgreSQL database and Django
@@ -11,4 +11,22 @@ Features
     + You filter through the listings easily to make any changes necessary
   + Users on the front end can search through listings as well
   
+ ## Screenshoots
  
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_2.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_3.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_4.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_5.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_6.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_7.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_8.PNG "Home Screen")
+
+![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_9.PNG "Home Screen")
