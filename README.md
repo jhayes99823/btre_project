@@ -2,6 +2,13 @@
 
 A side project that is an example of using HTML, CSS, and Javascript on the front-end and incorporating Python and Django on the backend to build database functionality with PostgreSQL and help from pgAdmin4.
 
+## Languages
++ HTML
++ CSS
++ JavaScript
++ Python with Django Libaries
++ PostGreSQL Database with pgAdmin4 for visuals
+
 ## Features
   + You can login as a user and select properties and make 'inquiries' about them. This sends an email to the realtor of the property.
     There is also a dashboard provided that lists all of your inquries
