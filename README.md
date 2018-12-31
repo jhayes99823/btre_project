@@ -13,20 +13,36 @@ A side project that is an example of using HTML, CSS, and Javascript on the fron
   
  ## Screenshoots
  
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_.PNG "Home Screen")
+ ### The Main Webpage
+![alt text](btre_screenshots/btrealestate_screenshot_.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_2.PNG "Home Screen")
+### Example of Creating a Listing from Admin Area
+![alt text](btre_screenshots/btrealestate_screenshot_9.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_3.PNG "Home Screen")
+### The Listing Page
+![alt text](btre_screenshots/btrealestate_screenshot_2.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_4.PNG "Home Screen")
+### The Home for the Admin Area
+![alt text](btre_screenshots/btrealestate_screenshot_3.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_5.PNG "Home Screen")
+### Example of Creating a Realtor from Admin Area
+![alt text](btre_screenshots/btrealestate_screenshot_7.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_6.PNG "Home Screen")
+### A User Dashboard Example
+![alt text](btre_screenshots/btrealestate_screenshot_4.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_7.PNG "Home Screen")
+### Listings from Admin Area
+![alt text](btre_screenshots/btrealestate_screenshot_5.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_8.PNG "Home Screen")
+### Inquiries from Admin Area
+![alt text](btre_screenshots/btrealestate_screenshot_6.PNG)
 
-![Alt text](btre_project/btre_screenshots/btrealestate_screenshot_9.PNG "Home Screen")
+### Example of User Dashboard and Inquiries made
+You will notice if you go back to the inquiries picture from the admin area that 
+all of the inquiries made from Kathy appear here in her inquiry listings as well
+![alt text](btre_screenshots/btrealestate_screenshot_11.PNG)
+
+### Example of User Loggin in
+![alt text](btre_screenshots/btrealestate_screenshot_10.PNG)
+
+
